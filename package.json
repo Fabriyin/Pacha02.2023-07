@@ -6,7 +6,8 @@
     "mongoose": "^7.5.3",
     "mssql": "^10.0.0",
     "node-fetch": "^2.7.0",
-    "node.js": "^0.0.1-security"
+    "node.js": "^0.0.1-security",
+    "socket.io": "^4.7.2"
   },
   "name": "pacha02.2023-07",
   "description": "Respositorio de la clase",
